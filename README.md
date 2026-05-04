@@ -1,6 +1,6 @@
 # Hello World
-Primeiro repositório 
+### Esste é o meu primeiro repositório testando a documentação de projetos.
 
-Essa linha eu adicionei diretamente no editor do site github
+***Linha escrita e editada pelo editor do próprio github***
 
-**Testando linguagem Markdown**
+## ***MARKDOWN***
