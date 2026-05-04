@@ -1,5 +1,5 @@
 # Hello World
-Primeiro repositório do curso de Git e GitHub (Curso em vídeo)
+Primeiro repositório 
 
 Essa linha eu adicionei diretamente no editor do site github
 
