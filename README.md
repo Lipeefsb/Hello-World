@@ -1,6 +1,6 @@
 # Hello World
-Primeiro repositório do curso de Git e GitHub (Curso em vídeo)
+### Esste é o meu primeiro repositório testando a documentação de projetos.
 
-Essa linha eu adicionei diretamente no editor do site github
+***Linha escrita e editada pelo editor do próprio github***
 
-**Testando linguagem Markdown**
+## ***MARKDOWN***
